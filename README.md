@@ -7,7 +7,7 @@
 
 #### Request:
 
-[Test](https://joaosilgo.github.io/dummy_db/posts.json/?target=_blank)
+[Test](https://joaosilgo.github.io/dummy_db/posts.json)
 
 ````
 https://joaosilgo.github.io/dummy_db/posts.json
@@ -54,6 +54,8 @@ https://joaosilgo.github.io/dummy_db/posts.json
 
 
 #### Request:
+
+[Test](https://joaosilgo.github.io/dummy_db/users.json)
 
 ````
 https://joaosilgo.github.io/dummy_db/users.json
@@ -121,6 +123,8 @@ https://joaosilgo.github.io/dummy_db/users.json
 
 
 #### Request:
+
+[Test](https://joaosilgo.github.io/dummy_db/db.json)
 
 ````
 https://joaosilgo.github.io/dummy_db/db.json

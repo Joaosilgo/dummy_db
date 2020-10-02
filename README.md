@@ -115,6 +115,54 @@ https://joaosilgo.github.io/dummy_db/users.json
 ````
 
 
+
+
+
+#### Request:
+
+````
+https://joaosilgo.github.io/dummy_db/db.json
+
+````
+
+
+#### Response:
+````json
+
+{
+   "posts":[
+      {
+         "id":1,
+         "title":"Post Numero 1"
+      },
+      {
+         "id":2,
+         "title":"Post Numero 2"
+      },
+      {
+         "id":3,
+         "title":"Post Numero 3"
+      }
+   ],
+   "comments":[
+      {
+         "id":1,
+         "body":"some cool comment",
+         "postId":1
+      },
+      {
+         "id":2,
+         "body":"some cool comment",
+         "postId":1
+      }
+   ],
+   "profile":{
+      "name":"João Gomes"
+   }
+}
+````
+
+
 ## Basic Usage
 
 ### Fetch API

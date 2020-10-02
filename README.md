@@ -41,7 +41,7 @@ https://joaosilgo.github.io/dummy_db/posts.json
       "body":"ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
    }
    
-   ...
+   
 ]
 
 
@@ -109,7 +109,7 @@ https://joaosilgo.github.io/dummy_db/users.json
          "bs":"synergize scalable supply-chains"
       }
    }
-   ...
+   
 ]
 
 ````

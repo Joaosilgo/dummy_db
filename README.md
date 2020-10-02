@@ -7,6 +7,8 @@
 
 #### Request:
 
+[Test](https://joaosilgo.github.io/dummy_db/posts.json/?target=_blank)
+
 ````
 https://joaosilgo.github.io/dummy_db/posts.json
 

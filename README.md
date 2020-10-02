@@ -117,6 +117,10 @@ https://joaosilgo.github.io/dummy_db/users.json
 
 ## Basic Usage
 
+### Fetch API
+
+The Fetch API provides an interface for fetching resources (including across the network). It will seem familiar to anyone who has used XMLHttpRequest, but the new API provides a more powerful and flexible feature set.
+
 
 ````javascript
 // Replace  with your JSON feed
@@ -132,6 +136,26 @@ fetch('https://joaosilgo.github.io/dummy_db/posts.json')
     // Do something for an error here
   })
   
+  ````
+  
+
+
+### XMLHttpRequest (XHR)
+
+XMLHttpRequest (XHR) objects are used to interact with servers. You can retrieve data from a URL without having to do a full page refresh. This enables a Web page to update just part of a page without disrupting what the user is doing. XMLHttpRequest is used heavily in AJAX programming.
+
+````javascript
+var url ='https://joaosilgo.github.io/dummy_db/posts.json';
+var req = new XMLHttpRequest();
+req.responseType = 'json';
+req.open('GET', url, true);
+req.onload = function () {
+    var jsonResponse = req.response;
+    console.log(jsonResponse);
+    // do something with jsonResponse
+};
+req.send(null);
+
   ````
 
 

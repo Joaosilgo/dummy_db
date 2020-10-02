@@ -2,7 +2,10 @@
 🧪 Dummy Data in Json
 
 
-### Eg:
+## Eg:
+
+
+#### Request:
 
 ````
 https://joaosilgo.github.io/dummy_db/posts.json
@@ -10,6 +13,7 @@ https://joaosilgo.github.io/dummy_db/posts.json
 ````
 
 
+#### Response:
 ````json
 [
    {

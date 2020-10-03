@@ -1,0 +1,16 @@
+<svg width="1600" height="1200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="1202" width="1602" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="643" x="705.32813" stroke-width="0" fill="none">MOCKUP IMAGE</text>
+  <text font-style="italic" font-weight="bold" style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="52" id="svg_3" y="523" x="590.33594" stroke-width="66" fill="#999999">MOCKUP IMAGE</text>
+  <text transform="matrix(1,0,0,1,0,0) " font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="22" id="svg_4" y="622" x="617.94531" stroke-width="66" fill="#999999">https://joaosilgo.github.io/dummy_db/</text>
+ </g>
+</svg>

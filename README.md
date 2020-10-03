@@ -238,6 +238,18 @@ req.send(null);
   
   ````
   <img src="https://raw.githubusercontent.com/Joaosilgo/dummy_db/main/svg/_banner.svg">
+  
+  
+  ### Portrait
+
+#### 1600 x 1200
+  
+  
+  ````
+  https://raw.githubusercontent.com/Joaosilgo/dummy_db/main/svg/portrait.svg
+  
+  ````
+  <img src="https://raw.githubusercontent.com/Joaosilgo/dummy_db/main/svg/portrait.svg">
  
   
 

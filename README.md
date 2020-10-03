@@ -242,7 +242,7 @@ req.send(null);
   
   ### Portrait
 
-#### 1600 x 1200
+#### 640 x 480
   
   
   ````
@@ -250,6 +250,16 @@ req.send(null);
   
   ````
   <img src="https://raw.githubusercontent.com/Joaosilgo/dummy_db/main/svg/portrait.svg">
+  
+  
+#### 640 x 480
+  
+  
+  ````
+  https://raw.githubusercontent.com/Joaosilgo/dummy_db/main/svg/_portrait.svg
+  
+  ````
+  <img src="https://raw.githubusercontent.com/Joaosilgo/dummy_db/main/svg/_portrait.svg">
  
   
 

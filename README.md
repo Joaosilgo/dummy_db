@@ -240,7 +240,7 @@ req.send(null);
   <img src="https://raw.githubusercontent.com/Joaosilgo/dummy_db/main/svg/_banner.svg">
   
   
-  ### Portrait
+### Portrait
 
 #### 640 x 480
   

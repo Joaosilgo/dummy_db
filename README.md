@@ -214,9 +214,13 @@ req.send(null);
   
   
   
-  ## Mockup Images
   
-  ### Banner
+## Mockup Images
+  
+### Banner
+
+#### 1600 x 1200
+  
   
   ````
   https://raw.githubusercontent.com/Joaosilgo/dummy_db/main/svg/banner.svg

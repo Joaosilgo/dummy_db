@@ -212,12 +212,18 @@ req.send(null);
 
   ````
   
+  
+  
+  ## Mockup Images
+  
+  ### Banner
+  
   ````
   https://raw.githubusercontent.com/Joaosilgo/dummy_db/main/svg/banner.svg
   
   ````
-  
-  ![]('https://raw.githubusercontent.com/Joaosilgo/dummy_db/main/svg/banner.svg')
+  <img src="https://raw.githubusercontent.com/Joaosilgo/dummy_db/main/svg/banner.svg">
+ 
   
 
 

@@ -212,7 +212,12 @@ req.send(null);
 
   ````
   
-  ![]('https://joaosilgo.github.io/dummy_db/banner.svg')
+  ````
+  https://raw.githubusercontent.com/Joaosilgo/dummy_db/main/svg/banner.svg
+  
+  ````
+  
+  ![]('https://raw.githubusercontent.com/Joaosilgo/dummy_db/main/svg/banner.svg')
   
 
 

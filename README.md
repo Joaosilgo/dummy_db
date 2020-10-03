@@ -212,5 +212,7 @@ req.send(null);
 
   ````
   
+  ![]('https://joaosilgo.github.io/dummy_db/banner.svg')
+  
 
 
